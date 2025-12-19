@@ -1,0 +1,162 @@
+[
+    {
+        "OrderID": "ORD0001",
+        "CustomerID": "CUST821",
+        "OrderDate": "2025-03-04",
+        "Quantity": 8,
+        "Price": 327.07,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0002",
+        "CustomerID": "CUST517",
+        "OrderDate": "2025-02-15",
+        "Quantity": 4,
+        "Price": 267.43,
+        "Status": "Cancelled"
+    },
+    {
+        "OrderID": "ORD0003",
+        "CustomerID": "CUST983",
+        "OrderDate": "2024-12-26",
+        "Quantity": 6,
+        "Price": 373.64,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0004",
+        "CustomerID": "CUST511",
+        "OrderDate": "2025-01-21",
+        "Quantity": 2,
+        "Price": 459.34,
+        "Status": "Delivered"
+    },
+    {
+        "OrderID": "ORD0005",
+        "CustomerID": "CUST566",
+        "OrderDate": "2025-01-30",
+        "Quantity": 5,
+        "Price": 133.48,
+        "Status": "Cancelled"
+    },
+    {
+        "OrderID": "ORD0006",
+        "CustomerID": "CUST434",
+        "OrderDate": "2025-11-20",
+        "Quantity": 4,
+        "Price": 396.64,
+        "Status": "Cancelled"
+    },
+    {
+        "OrderID": "ORD0007",
+        "CustomerID": "CUST826",
+        "OrderDate": "2025-06-10",
+        "Quantity": 1,
+        "Price": 223.35,
+        "Status": "Delivered"
+    },
+    {
+        "OrderID": "ORD0008",
+        "CustomerID": "CUST965",
+        "OrderDate": "2025-03-17",
+        "Quantity": 5,
+        "Price": 103.61,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0009",
+        "CustomerID": "CUST302",
+        "OrderDate": "2024-12-25",
+        "Quantity": 9,
+        "Price": 251.07,
+        "Status": "Cancelled"
+    },
+    {
+        "OrderID": "ORD0010",
+        "CustomerID": "CUST437",
+        "OrderDate": "2025-08-18",
+        "Quantity": 2,
+        "Price": 281.98,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0011",
+        "CustomerID": "CUST308",
+        "OrderDate": "2025-04-02",
+        "Quantity": 4,
+        "Price": 467.47,
+        "Status": "Delivered"
+    },
+    {
+        "OrderID": "ORD0012",
+        "CustomerID": "CUST865",
+        "OrderDate": "2025-10-12",
+        "Quantity": 8,
+        "Price": 399.14,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0013",
+        "CustomerID": "CUST446",
+        "OrderDate": "2025-09-10",
+        "Quantity": 5,
+        "Price": 443.98,
+        "Status": "Cancelled"
+    },
+    {
+        "OrderID": "ORD0014",
+        "CustomerID": "CUST405",
+        "OrderDate": "2024-12-26",
+        "Quantity": 2,
+        "Price": 66.61,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0015",
+        "CustomerID": "CUST395",
+        "OrderDate": "2025-08-28",
+        "Quantity": 4,
+        "Price": 203.79,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0016",
+        "CustomerID": "CUST145",
+        "OrderDate": "2025-05-28",
+        "Quantity": 8,
+        "Price": 23.65,
+        "Status": "Delivered"
+    },
+    {
+        "OrderID": "ORD0017",
+        "CustomerID": "CUST680",
+        "OrderDate": "2025-07-02",
+        "Quantity": 5,
+        "Price": 221.9,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0018",
+        "CustomerID": "CUST357",
+        "OrderDate": "2025-06-13",
+        "Quantity": 4,
+        "Price": 371.63,
+        "Status": "Cancelled"
+    },
+    {
+        "OrderID": "ORD0019",
+        "CustomerID": "CUST771",
+        "OrderDate": "2025-02-11",
+        "Quantity": 1,
+        "Price": 133.81,
+        "Status": "Shipped"
+    },
+    {
+        "OrderID": "ORD0020",
+        "CustomerID": "CUST427",
+        "OrderDate": "2025-06-13",
+        "Quantity": 10,
+        "Price": 101.78,
+        "Status": "Cancelled"
+    }
+]
